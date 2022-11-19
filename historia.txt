@@ -2,4 +2,4 @@ Hola buenas tardes
 
 Mi nombre es Alejo
 
-Estoy aprendiendo a utilizar GIT
+Estoy aprendiendo a utilizar GIT y GITHUB
